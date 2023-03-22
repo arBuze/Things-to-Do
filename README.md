@@ -6,3 +6,4 @@ Here you can find some ideas of what to do and some recommends, like books or vi
 Also the project was made in order to consolidate the layout skills and BEM structure.
 
 Technologies used here: HTML, CSS, plain animation with CSS.
+Next step - make the site adaptive.
