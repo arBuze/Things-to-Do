@@ -1,0 +1,8 @@
+.stars__link {
+  width: 500px;
+  height: 400px;
+}
+
+.stars__link:hover {
+  box-shadow: rgb(224, 186, 13) 5px 5px 10px;
+}

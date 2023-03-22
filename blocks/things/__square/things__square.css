@@ -1,0 +1,14 @@
+@keyframes rotation {
+  from {
+    transform: rotate(0);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.things__square {
+  background-color: rgba(31, 11, 102, .3);
+  position: absolute;
+  animation: rotation 30s linear infinite;
+}

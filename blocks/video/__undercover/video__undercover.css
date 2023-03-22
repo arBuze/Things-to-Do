@@ -1,0 +1,16 @@
+.video__undercover {
+  width: 450px;
+  height: 300px;
+  position: absolute;
+  background-color: rgba(153, 65, 65, .4);
+  border-radius: 10%;
+  opacity: 0;
+  top: -25px;
+  left: -25px;
+  transition: opacity .3s ease-in;
+  z-index: -1;
+}
+
+.video__example:hover .video__undercover{
+  opacity: 1;
+}

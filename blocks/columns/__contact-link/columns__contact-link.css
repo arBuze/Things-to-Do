@@ -1,0 +1,12 @@
+.columns__contact-link {
+  text-decoration: none;
+  color: #000;
+  font-size: 20px;
+  font-weight: normal;
+  line-height: 1.5;
+  transition: color .2s ease-in;
+}
+
+.columns__contact-link:hover {
+  color:rgba(55, 55, 218, 0.9)
+}
